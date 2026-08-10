@@ -17,6 +17,11 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 ## Work Experiences
 * **2025.09 - Present**: <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>, Soongsil University, Undergraduate Researcher / Graduate Researcher <br>
 
+## Conferences
+*Corresponding author*: &dagger;
+
+1. **소프트웨어 취약점 탐지 성능 향상을 위한 LLM 기반 코드 가젯 생성 및 정제** <br> Doyun Kim, Chanjun Park&dagger; <br> *KSC 2025*
+
 ## Patents
 1. **Method and Apparatus for Analyzing Parameter Regions of Large Language Models** (대규모 언어 모델의 파라미터 영역 분석 방법 및 장치) <br> Chanjun Park, Doyun Kim, Seonghyun Cho <br> *Korean Patent Application, filed on August 6, 2026 (Application No. 10-2026-0146874)*
 2. **Method, Apparatus, and System for Evaluating Security Vulnerabilities of Self-Evolving Agents** (자가진화형 에이전트의 보안 취약성 평가 방법, 장치 및 시스템) <br> Chanjun Park, Doyun Kim <br> *Korean Patent Application, filed on June 30, 2026 (Application No. 10-2026-0119810)*
