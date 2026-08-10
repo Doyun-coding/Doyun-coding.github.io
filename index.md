@@ -11,10 +11,11 @@ Doyun Kim is an undergraduate researcher in the [School of Computer Science and 
 For the latest news, please visit the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab Page</a>.
 
 ## Education
-* **[20XX.03] - Present**: B.S. in Computer Science and Engineering, Soongsil University (Advisor: <a href="https://parkchanjun.github.io/">Chanjun Park</a>) <br>
+* **2026.09 - Present**: M.S. student in Computer Science and Engineering, Soongsil University (Advisor: <a href="https://parkchanjun.github.io/">Chanjun Park</a>) <br>
+* **2025.09 - 2026.08**: B.S. in Computer Science and Engineering, Soongsil University &mdash; Undergraduate Researcher (Advisor: <a href="https://parkchanjun.github.io/">Chanjun Park</a>) <br>
 
 ## Work Experiences
-* **[20XX] - Present**: <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>, Soongsil University, Undergraduate Researcher <br>
+* **2025.09 - Present**: <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>, Soongsil University, Undergraduate Researcher / Graduate Researcher <br>
 
 ## Patents
 1. **Method and Apparatus for Analyzing Parameter Regions of Large Language Models** (대규모 언어 모델의 파라미터 영역 분석 방법 및 장치) <br> Chanjun Park, Doyun Kim, Seonghyun Cho <br> *Korean Patent Application, filed on August 6, 2026 (Application No. 10-2026-0146874)*
