@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "CV"
-   link: "resume.pdf"
+   link: "assets/doyun_CV.pdf"
  - name: "NLP LAB"
    link: "https://sites.google.com/view/ssu-nlp/home"
 
