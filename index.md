@@ -5,7 +5,7 @@ layout: default
 ## Biography
 
 <img class="profile-picture" src="/assets/doyun_kim.png">
-Doyun Kim is a researcher in the Department of Software at Soongsil University, where he conducts research in the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a> under the supervision of Professor <a href="https://parkchanjun.github.io/">Chanjun Park</a>. His research interests lie in Natural Language Processing and LLM Security, with a focus on [analyzing and controlling the internal behavior of large language models]. He is a co-inventor on multiple Korean patent applications related to large language models.
+Doyun Kim is a researcher in the Department of Software at Soongsil University, where he conducts research in the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a> under the supervision of Professor <a href="https://parkchanjun.github.io/">Chanjun Park</a>. His research interests lie in Natural Language Processing and LLM Security, with a focus on [analyzing and controlling the internal behavior of large language models]. For more details, please see his CV.
 
 ## News
 For the latest news, please visit the <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab Page</a>.
