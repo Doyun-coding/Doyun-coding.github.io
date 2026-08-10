@@ -17,7 +17,7 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 ## Work Experiences
 * **2025.09 - Present**: <a href="https://sites.google.com/view/ssu-nlp/home">Natural Language Processing Lab</a>, Soongsil University, Undergraduate Researcher / Graduate Researcher <br>
 
-## Conferences
+## Publication
 *Corresponding author*: &dagger;
 
 1. **소프트웨어 취약점 탐지 성능 향상을 위한 LLM 기반 코드 가젯 생성 및 정제** <br> Doyun Kim, Chanjun Park&dagger; <br> *KSC 2025*
