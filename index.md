@@ -20,7 +20,8 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 ## Publication
 *Corresponding author*: &dagger;
 
-1. **소프트웨어 취약점 탐지 성능 향상을 위한 LLM 기반 코드 가젯 생성 및 정제** <br> Doyun Kim, Chanjun Park&dagger; <br> *KSC 2025*
+1. **EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents** <br> Doyun Kim, Chanwoo Kim, Sugyeong Eo, Yeo Chan Yoon&dagger;, Chanjun Park&dagger; <br> *EMNLP 2026*
+2. **소프트웨어 취약점 탐지 성능 향상을 위한 LLM 기반 코드 가젯 생성 및 정제** <br> Doyun Kim, Chanjun Park&dagger; <br> *KSC 2025*
 
 ## Patents
 1. **Method and Apparatus for Analyzing Parameter Regions of Large Language Models** <br> (대규모 언어 모델의 파라미터 영역 분석 방법 및 장치) <br> Chanjun Park, Doyun Kim, Seonghyun Cho <br> *Korean Patent Application, filed on August 6, 2026 (Application No. 10-2026-0146874)*
