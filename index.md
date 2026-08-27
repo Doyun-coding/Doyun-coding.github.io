@@ -24,6 +24,8 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 2. **소프트웨어 취약점 탐지 성능 향상을 위한 LLM 기반 코드 가젯 생성 및 정제** <br> Doyun Kim, Chanjun Park&dagger; <br> *KSC 2025*
 
 ## Patents
-1. **Method and Apparatus for Analyzing Parameter Regions of Large Language Models** <br> (대규모 언어 모델의 파라미터 영역 분석 방법 및 장치) <br> Chanjun Park, Doyun Kim, Seonghyun Cho <br> *Korean Patent Application, filed on August 6, 2026 (Application No. 10-2026-0146874)*
-2. **Method, Apparatus, and System for Evaluating Security Vulnerabilities of Self-Evolving Agents** <br> (자가진화형 에이전트의 보안 취약성 평가 방법, 장치 및 시스템) <br> Chanjun Park, Doyun Kim <br> *Korean Patent Application, filed on June 30, 2026 (Application No. 10-2026-0119810)*
+1. **Method and Apparatus for Verifying Security of Artificial Intelligence Agents** <br> (인공지능 에이전트 보안 검증 방법 및 장치) <br> Chanjun Park, Doyun Kim <br> *Korean Patent Application, filed on August 26, 2026 (Application No. 10-2026-0161210)* <br> *Acknowledgment: Foundation Model 운용 과정에서 민감정보 추론 방지*
+2. **Method and Apparatus for Automatic Evaluation of Large Language Models Based on Numerical Score Topology Analysis** <br> (수치형 점수 토폴로지 분석 기반 대규모 언어 모델 자동평가 방법 및 장치) <br> Chanjun Park, Doyun Kim <br> *Korean Patent Application, filed on August 26, 2026 (Application No. 10-2026-0161159)* <br> *Acknowledgment: 토론과 소통으로 지식을 연결하는 AI 에이전트 기술 개발*
+3. **Method and Apparatus for Analyzing Parameter Regions of Large Language Models** <br> (대규모 언어 모델의 파라미터 영역 분석 방법 및 장치) <br> Chanjun Park, Doyun Kim, Seonghyun Cho <br> *Korean Patent Application, filed on August 6, 2026 (Application No. 10-2026-0146874)*
+4. **Method, Apparatus, and System for Evaluating Security Vulnerabilities of Self-Evolving Agents** <br> (자가진화형 에이전트의 보안 취약성 평가 방법, 장치 및 시스템) <br> Chanjun Park, Doyun Kim <br> *Korean Patent Application, filed on June 30, 2026 (Application No. 10-2026-0119810)*
 
