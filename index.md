@@ -40,4 +40,6 @@ Year | Headline | Press
 2026.09 | [숭실대 김도윤 학부연구생 논문 자연어처리 국제학술대회 'EMNLP 2026' 채택.. '자기진화형 AI 에이전트 보안 취약점 분석'](https://www.veritas-a.com/news/articleView.html?idxno=626076) | 베리타스알파
 2026.09 | [숭실대 학부생 논문, 자연어처리 국제학술대회 'EMNLP 2026' 채택](https://www.fnnews.com/news/202609031847386493) | 파이낸셜뉴스
 2026.09 | [스스로 배운다던 AI, 해킹 수법까지 익혀 쓴다… 신종 보안 구멍 찾았다](https://www.fnnews.com/news/202609031432293949) | 파이낸셜뉴스
+2026.09 | [숭실대 김도윤 학부연구생, AI 에이전트 보안 연구 'EMNLP 2026' 채택](http://edu.donga.com/news/articleView.html?idxno=111575) | 동아일보 (E동아)
+2026.09 | [Your Agent Wrote Its Own Skills. Now the Compromise Never Leaves.](https://articles.phantom-byte.com/your-agent-wrote-its-own-skills-now-the-compromise-never-leaves.html) | PhantomByte
 
