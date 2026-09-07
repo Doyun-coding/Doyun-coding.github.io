@@ -42,4 +42,5 @@ Year | Headline | Press
 2026.09 | [스스로 배운다던 AI, 해킹 수법까지 익혀 쓴다… 신종 보안 구멍 찾았다](https://www.fnnews.com/news/202609031432293949) | 파이낸셜뉴스
 2026.09 | [숭실대 김도윤 학부연구생, AI 에이전트 보안 연구 'EMNLP 2026' 채택](http://edu.donga.com/news/articleView.html?idxno=111575) | 동아일보 (E동아)
 2026.09 | [Your Agent Wrote Its Own Skills. Now the Compromise Never Leaves.](https://articles.phantom-byte.com/your-agent-wrote-its-own-skills-now-the-compromise-never-leaves.html) | PhantomByte
+2026.09 | [김도윤 학부연구생, AI 에이전트 보안 연구 'EMNLP 2026' 채택](https://scatch.ssu.ac.kr/%EB%89%B4%EC%8A%A4%EC%84%BC%ED%84%B0/%EC%A3%BC%EC%9A%94%EB%89%B4%EC%8A%A4/?slug=%ea%b9%80%eb%8f%84%ec%9c%a4-%ed%95%99%eb%b6%80%ec%97%b0%ea%b5%ac%ec%83%9d-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%b3%b4%ec%95%88-%ec%97%b0%ea%b5%ac-emnlp-2026-%ec%b1%84%ed%83%9d) | SSU:catch (숭실대학교 홍보센터)
 
