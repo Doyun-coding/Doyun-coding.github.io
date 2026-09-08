@@ -33,6 +33,7 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.09 | [김도윤 학부연구생, AI 에이전트 보안 연구 'EMNLP 2026' 채택](https://alumnus.ssu.ac.kr/cmnt/45472/boardInfo.do?bidx=1023219) | 숭실대학교 총동문회
 2026.09 | [숭실대 김도윤 학부연구생, AI 에이전트 보안 연구 'EMNLP 2026' 채택](http://edu.donga.com/news/articleView.html?idxno=111575) | 동아일보 (E동아)
 2026.09 | [숭실대 학부생 논문, 자연어처리 국제학술대회 'EMNLP 2026' 채택](https://www.fnnews.com/news/202609031847386493) | 파이낸셜뉴스
 2026.09 | [숭실대 김도윤 학부연구생, AI 에이전트 보안 연구 'EMNLP 2026' 채택](https://www.pointdaily.co.kr/news/articleView.html?idxno=317920) | 포인트데일리
