@@ -34,7 +34,7 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 6. **소프트웨어 취약점 탐지 성능 향상을 위한 LLM 기반 코드 가젯 생성 및 정제** <br> <strong><u>Doyun Kim</u></strong>, Chanjun Park&dagger; <br> *KSC 2025*
 
 ## Awards
-1. **Best Paper Award** <br> *KoEvoSkillBench: 자기진화형 에이전트의 스킬 주입 보안을 위한 한국어 벤치마크* <br> *HCLT 2026*
+1. **KoEvoSkillBench: 자기진화형 에이전트의 스킬 주입 보안을 위한 한국어 벤치마크** <br> <strong><u>Doyun Kim</u></strong> <br> *Best Paper Award, HCLT 2026*
 
 ## Patents
 1. **Method and Apparatus for Verifying Security of Artificial Intelligence Agents** <br> (인공지능 에이전트 보안 검증 방법 및 장치) <br> Chanjun Park, Doyun Kim <br> *Korean Patent Application, filed on August 26, 2026 (Application No. 10-2026-0161210)* <br> *Acknowledgment: Foundation Model 운용 과정에서 민감정보 추론 방지*
