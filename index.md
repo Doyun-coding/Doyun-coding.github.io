@@ -20,8 +20,21 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 ## Publication
 *Corresponding author*: &dagger;
 
+### International
+
 1. **EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents** <br> <strong><u>Doyun Kim</u></strong>, Chanwoo Kim, Sugyeong Eo, Yeo Chan Yoon&dagger;, Chanjun Park&dagger; <br> *EMNLP 2026*
-2. **소프트웨어 취약점 탐지 성능 향상을 위한 LLM 기반 코드 가젯 생성 및 정제** <br> <strong><u>Doyun Kim</u></strong>, Chanjun Park&dagger; <br> *KSC 2025*
+
+### Domestic
+
+1. **KoEvoSkillBench: 자기진화형 에이전트의 스킬 주입 보안을 위한 한국어 벤치마크** <br> <strong><u>Doyun Kim</u></strong>, Chanwoo Kim, Seonghyun Cho, Jiwoo Geum, Eunseo Song, Jihoon Song, Chanjun Park&dagger; <br> *HCLT 2026* &mdash; **Best Paper Award**
+2. **한국어 LLM Judge는 의미를 보존하는가? 척도와 응답 순서에 대한 표현 불변성 분석** <br> Chanwoo Kim, <strong><u>Doyun Kim</u></strong>, Minsu Song, Sihyeon Lee, Jihoon Song, Chanjun Park&dagger; <br> *HCLT 2026*
+3. **다중 에이전트 토론을 활용한 언어모델의 한국어 추론 오류 진단** <br> Jiwoo Geum, Minsu Song, Chanwoo Kim, Sihyeon Lee, <strong><u>Doyun Kim</u></strong>, Chanjun Park&dagger; <br> *HCLT 2026*
+4. **지식 충돌 상황에서 대화 맥락이 대규모 언어 모델의 입장 선택과 설명에 미치는 영향** <br> Jihoon Song, Chanwoo Kim, <strong><u>Doyun Kim</u></strong>, Jiyun Jang, Chaerin Nam, Chanjun Park&dagger; <br> *HCLT 2026*
+5. **K-Press: 한국어 벤치마크 능력 프로파일링을 위한 문항 기반 능력 축 유도** <br> Jiyun Jang, Seonghyun Cho, <strong><u>Doyun Kim</u></strong>, Jihoon Song, Kyojun Choo, Jiwoo Geum, Chanjun Park&dagger; <br> *HCLT 2026*
+6. **소프트웨어 취약점 탐지 성능 향상을 위한 LLM 기반 코드 가젯 생성 및 정제** <br> <strong><u>Doyun Kim</u></strong>, Chanjun Park&dagger; <br> *KSC 2025*
+
+## Awards
+1. **Best Paper Award** <br> *KoEvoSkillBench: 자기진화형 에이전트의 스킬 주입 보안을 위한 한국어 벤치마크* <br> *HCLT 2026*
 
 ## Patents
 1. **Method and Apparatus for Verifying Security of Artificial Intelligence Agents** <br> (인공지능 에이전트 보안 검증 방법 및 장치) <br> Chanjun Park, Doyun Kim <br> *Korean Patent Application, filed on August 26, 2026 (Application No. 10-2026-0161210)* <br> *Acknowledgment: Foundation Model 운용 과정에서 민감정보 추론 방지*
