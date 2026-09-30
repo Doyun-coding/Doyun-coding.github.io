@@ -22,7 +22,7 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 
 ### International
 
-1. **EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents** <br> <strong><u>Doyun Kim</u></strong>, Chanwoo Kim, Sugyeong Eo, Yeo Chan Yoon&dagger;, Chanjun Park&dagger; <br> *EMNLP 2026*
+1. **EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents** <br> <strong><u>Doyun Kim</u></strong>, Chanwoo Kim, Sugyeong Eo, Yeo Chan Yoon&dagger;, Chanjun Park&dagger; <br> *EMNLP 2026, Oral*
 
 ### Domestic
 
