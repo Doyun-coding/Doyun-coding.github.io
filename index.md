@@ -22,10 +22,10 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 
 ### International
 
-1. **EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents** <br> <strong><u>Doyun Kim</u></strong>, Chanwoo Kim, Sugyeong Eo, Yeo Chan Yoon&dagger;, Chanjun Park&dagger; <br> *EMNLP 2026, Oral*
-2. **Same Judgment, Different Scores: Numerical Scoring Topology in LLM-as-a-Judge Evaluation** <br> <strong><u>Doyun Kim</u></strong>, Chanwoo Kim, Jiwoo Kum, Minsoo Song, Chanjun Park&dagger; <br> *EACL 2027, Findings*
-3. **Structurally Different, Functionally Persistent: Capability Regions Under Model Optimization** <br> Jiwoo Kum, Chanwoo Kim, <strong><u>Doyun Kim</u></strong>, Seonghyeon Cho, Sihyeon Lee, Chanjun Park&dagger; <br> *EACL 2027, Findings*
-4. **Rubric Semantics or Numerical Priors? Auditing Scale-Direction Bias in LLM Judges** <br> Chanwoo Kim, <strong><u>Doyun Kim</u></strong>, Minsoo Song, Sihyeon Lee, Chanjun Park&dagger; <br> *EACL 2027, Findings*
+1. **Same Judgment, Different Scores: Numerical Scoring Topology in LLM-as-a-Judge Evaluation** <br> <strong><u>Doyun Kim</u></strong>, Chanwoo Kim, Jiwoo Kum, Minsoo Song, Chanjun Park&dagger; <br> *EACL 2027, Findings*
+2. **Structurally Different, Functionally Persistent: Capability Regions Under Model Optimization** <br> Jiwoo Kum, Chanwoo Kim, <strong><u>Doyun Kim</u></strong>, Seonghyeon Cho, Sihyeon Lee, Chanjun Park&dagger; <br> *EACL 2027, Findings*
+3. **Rubric Semantics or Numerical Priors? Auditing Scale-Direction Bias in LLM Judges** <br> Chanwoo Kim, <strong><u>Doyun Kim</u></strong>, Minsoo Song, Sihyeon Lee, Chanjun Park&dagger; <br> *EACL 2027, Findings*
+4. **EvoSkill Injection: Red-Teaming Autonomous Skill Generation and Evolution in Self-Evolving Agents** <br> <strong><u>Doyun Kim</u></strong>, Chanwoo Kim, Sugyeong Eo, Yeo Chan Yoon&dagger;, Chanjun Park&dagger; <br> *EMNLP 2026, Oral*
 
 ### Domestic
 
