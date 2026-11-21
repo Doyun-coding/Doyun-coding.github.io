@@ -50,6 +50,13 @@ For the latest news, please visit the <a href="https://sites.google.com/view/ssu
 
 Year | Headline | Press
 :-----:|-------|-------
+2026.11 | [AI 채점관도 점수 기준 바뀌면 딴소리… 숭실대 학부생·연구팀, AI 허점 규명](https://www.fnnews.com/news/202611181656158485) | 파이낸셜뉴스
+2026.11 | ["학부생의 반란, 세계 무대를 접수하다"… 숭실대 자연어처리연구실, EACL 2027 논문 8편 쾌거](https://www.dailysmart.co.kr/news/articleView.html?idxno=132760) | 스마트경제
+2026.11 | [숭실대 박찬준 교수 연구팀, EACL 2027 논문 8편 채택](https://www.pointdaily.co.kr/news/articleView.html?idxno=326459) | 포인트데일리
+2026.11 | [숭실대 자연어처리연구실 박찬준 교수 연구팀, EACL 2027 논문 8편 채택](https://news.unn.net/news/articleView.html?idxno=600863) | 한국대학신문
+2026.11 | [숭실대 박찬준 교수 연구팀, 'EACL 2027' 논문 8편 채택](https://www.seoul.co.kr/news/society/2026/11/18/20261118500046?wlog_tag3=naver) | 서울신문
+2026.11 | [숭실대 자연어처리 연구팀, EACL 2027 논문 8편 채택…AI 모델 혁신](https://www.newspim.com/news/view/20261118000350) | 뉴스핌
+2026.11 | [자연어처리연구실 박찬준 교수 연구팀, EACL 2027 논문 8편 채택](https://scatch.ssu.ac.kr/%eb%89%b4%ec%8a%a4%ec%84%bc%ed%84%b0/%ec%97%b0%ea%b5%ac%ec%84%b1%ea%b3%bc/?slug=%EC%9E%90%EC%97%B0%EC%96%B4%EC%B2%98%EB%A6%AC%EC%97%B0%EA%B5%AC%EC%8B%A4-%EB%B0%95%EC%B0%AC%EC%A4%80-%EA%B5%90%EC%88%98-%EC%97%B0%EA%B5%AC%ED%8C%80-eacl-2027-%EB%85%BC%EB%AC%B8-8%ED%8E%B8-%EC%B1%84&f&keyword) | SSU:catch (숭실대학교 홍보센터)
 2026.09 | [숭실대 학부생 연구팀, 자기진화형 AI 에이전트 보안 취약점 규명](https://www.rocketpunch.com/en/discover/46035) | RocketPunch
 2026.09 | [숭실대 김도윤 학부연구생, AI 에이전트 보안 연구 'EMNLP 2026' 채택](https://news.chosun.com/pan/site/data/html_dir/2026/09/07/2026090701267.html) | 조선일보
 2026.09 | [김도윤 학부연구생, AI 에이전트 보안 연구 'EMNLP 2026' 채택](https://alumnus.ssu.ac.kr/cmnt/45472/boardInfo.do?bidx=1023219) | 숭실대학교 총동문회
